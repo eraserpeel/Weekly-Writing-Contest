@@ -1,0 +1,1544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"tem",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"prin",
+				"print_name"
+			],
+			[
+				"is",
+				"is_too_long"
+			],
+			[
+				"somet",
+				"some_function"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"em",
+				"emit_intermediate"
+			],
+			[
+				"matrix",
+				"matrix_id"
+			],
+			[
+				"ma",
+				"matrix_id"
+			],
+			[
+				"li",
+				"list_of_friend_pairs"
+			],
+			[
+				"doc",
+				"doc_namne"
+			],
+			[
+				"id",
+				"id_num"
+			],
+			[
+				"list",
+				"list_of_values"
+			],
+			[
+				"userpr",
+				"userprofile"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"user",
+				"userprofile"
+			],
+			[
+				"evo",
+				"evolve_generation	function"
+			],
+			[
+				"m",
+				"mutation_rate	statement"
+			],
+			[
+				"ne",
+				"next_generation	statement"
+			],
+			[
+				"envi",
+				"environment_dimensions	param"
+			],
+			[
+				"en",
+				"environment_height	statement"
+			],
+			[
+				"dta",
+				"datasets"
+			],
+			[
+				"tru",
+				"trueTest	statement"
+			],
+			[
+				"tra",
+				"train_data	statement"
+			],
+			[
+				"c",
+				"CLASSIFICATIONS	statement"
+			],
+			[
+				"cl",
+				"CLASSIFICATIONS	statement"
+			],
+			[
+				"set",
+				"SET_MAX	statement"
+			],
+			[
+				"al",
+				"all_data	statement"
+			],
+			[
+				"all",
+				"alldata	statement"
+			],
+			[
+				"hidd",
+				"hidden_to_out	statement"
+			],
+			[
+				"inp",
+				"input_layer	statement"
+			],
+			[
+				"su",
+				"subset_of_ids	statement"
+			],
+			[
+				"da",
+				"DATA_SET_MAX	statement"
+			],
+			[
+				"DATA",
+				"DATA_SET_MAX"
+			],
+			[
+				"tar",
+				"target_data	statement"
+			],
+			[
+				"ta",
+				"target_data	statement"
+			],
+			[
+				"input",
+				"input_data	statement"
+			],
+			[
+				"delta",
+				"delta_index	statement"
+			],
+			[
+				"del",
+				"delta_pullback	statement"
+			],
+			[
+				"num",
+				"num_cases"
+			],
+			[
+				"lay",
+				"layerInput	statement"
+			],
+			[
+				"layer",
+				"layerInput	statement"
+			],
+			[
+				"la",
+				"layerInputTemp	statement"
+			],
+			[
+				"w",
+				"weights	statement"
+			],
+			[
+				"fin",
+				"final_living_cells_count	statement"
+			],
+			[
+				"get_",
+				"get_living_count	function"
+			],
+			[
+				"read",
+				"readlines	function"
+			],
+			[
+				"threa",
+				"thread_name	statement"
+			],
+			[
+				"thr",
+				"thread_name"
+			],
+			[
+				"MA",
+				"MAX_FILES	statement"
+			],
+			[
+				"iter",
+				"iterations	statement"
+			],
+			[
+				"gri",
+				"grid_height	statement"
+			],
+			[
+				"temp",
+				"temp_cells"
+			],
+			[
+				"grid",
+				"grid_width"
+			],
+			[
+				"grid_",
+				"grid_width	statement"
+			],
+			[
+				"int",
+				"initial_coverage"
+			],
+			[
+				"sear",
+				"search_results"
+			],
+			[
+				"get",
+				"get_or_none"
+			],
+			[
+				"exe",
+				"except"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"djang",
+				"django17"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bott",
+				"border-bottom-width"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"bottom",
+				"border-bottom-width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"card",
+				"card_sentence"
+			],
+			[
+				"word",
+				"words_and_sentences"
+			],
+			[
+				"sentence",
+				"sentence_pattern"
+			],
+			[
+				"patter",
+				"pattern_id"
+			],
+			[
+				"sen",
+				"sentence"
+			],
+			[
+				"ob",
+				"order_by"
+			],
+			[
+				"ex",
+				"example_sentence"
+			],
+			[
+				"part",
+				"PARTS_OF_SPEECH"
+			],
+			[
+				"sene",
+				"sentence_pattern"
+			],
+			[
+				"sim",
+				"simplfied_pattern"
+			],
+			[
+				"si",
+				"simplfied_pattern"
+			],
+			[
+				"piny",
+				"pinyin_listing"
+			],
+			[
+				"pin",
+				"pinyin_listing"
+			],
+			[
+				"pop",
+				"populate_cards"
+			],
+			[
+				"pa",
+				"PART_OF_SPEECH"
+			],
+			[
+				"par",
+				"parse_all_pinyin"
+			],
+			[
+				"P",
+				"PART_OF_SPEECH"
+			],
+			[
+				"med",
+				"MEDIA_ROOT"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"re",
+				"results_list"
+			],
+			[
+				"se",
+				"search_results"
+			],
+			[
+				"searc",
+				"search_term"
+			],
+			[
+				"fo",
+				"found_words"
+			],
+			[
+				"serc",
+				"search_results"
+			],
+			[
+				"poi",
+				"point_value"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"Senten",
+				"SentencePattern"
+			],
+			[
+				"sente",
+				"sentence_pattern"
+			],
+			[
+				"answer",
+				"answer-explanation"
+			],
+			[
+				"an",
+				"answerQuestion"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"Answer",
+				"Answer"
+			],
+			[
+				"create",
+				"created_by"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"ques",
+				"question_form"
+			],
+			[
+				"questio",
+				"question_form"
+			],
+			[
+				"ans",
+				"answer_formset"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"AN",
+				"AnswerForm"
+			],
+			[
+				"Create",
+				"CreateAnswerForm"
+			],
+			[
+				"questi",
+				"question_model"
+			],
+			[
+				"Creq",
+				"CreateQuestion"
+			],
+			[
+				"modl",
+				"models"
+			],
+			[
+				"Me",
+				"MEDIA_TYPE"
+			],
+			[
+				"foun",
+				"found_nodes"
+			],
+			[
+				"no",
+				"node_name"
+			],
+			[
+				"node",
+				"node_name"
+			],
+			[
+				"con",
+				"convert_to_utf8_1"
+			],
+			[
+				"bul",
+				"bulk_nodes"
+			],
+			[
+				"nod",
+				"node_as_link"
+			],
+			[
+				"nane",
+				"name_as_link"
+			],
+			[
+				"res",
+				"resources_count"
+			],
+			[
+				"add",
+				"add_node_resources"
+			],
+			[
+				"ge",
+				"get_or_create"
+			],
+			[
+				"exter",
+				"external_link_file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wwc/settings.py",
+			"settings":
+			{
+				"buffer_size": 3998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main/templates/site_base.html",
+			"settings":
+			{
+				"buffer_size": 5155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main/views.py",
+			"settings":
+			{
+				"buffer_size": 565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "31",
+			"file": "main/urls.py",
+			"file_size": 271,
+			"file_write_time": 130819000434115694,
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main/templates/main/main_logged_in.html",
+			"settings":
+			{
+				"buffer_size": 1198,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Python/ProjectsBkUp/Image Downloader/ImageDownloader/imagenetdl.py",
+			"settings":
+			{
+				"buffer_size": 2689,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "accounts/templates/account/login.html",
+			"settings":
+			{
+				"buffer_size": 2158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/main/dashboard.css",
+			"settings":
+			{
+				"buffer_size": 2196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/main/main.css",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "accounts/templates/account/signup.html",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main/models.py",
+			"settings":
+			{
+				"buffer_size": 1325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wwc/urls.py",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/DjangoProjects/wwc/wwc",
+		"/E/DjangoProjects/wwc/wwc/accounts",
+		"/E/DjangoProjects/wwc/wwc/main",
+		"/E/DjangoProjects/wwc/wwc/main/templates",
+		"/E/DjangoProjects/wwc/wwc/main/templates/main",
+		"/E/DjangoProjects/wwc/wwc/static",
+		"/E/DjangoProjects/wwc/wwc/static/css",
+		"/E/DjangoProjects/wwc/wwc/static/css/main",
+		"/E/DjangoProjects/wwc/wwc/wwc"
+	],
+	"file_history":
+	[
+		"/D/Sublime/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/DjangoProjects/wwc/wwc/accounts/templates/account/login_backup.html",
+		"/D/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Python/Valerie Test/Class 3/main.py",
+		"/E/Python/Valerie Test/Class 2/main.py",
+		"/E/Python/IB-Sort/main.py",
+		"/E/DjangoProjects/wwc/wwc/main/models.py",
+		"/E/DjangoProjects/wwc/wwc/main/views.py",
+		"/E/DjangoProjects/wwc/wwc/main/templates/main/main_no_account.html",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/inverted.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/genome.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/solutions/unique_trims.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/data/dna.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/data/genome.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/data/records.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/solutions/asymmetric_friendships.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/data/friends.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/nonsymmetric_friends.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/friends.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/join.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/solutions/join.json",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/ds.sublime-project",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment2/solutions.txt",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment3/wordcount.py",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/part1.txt",
+		"/E/Python/DataSciCoursera/datasci_course_materials/datasci_course_materials-master/assignment2/fuck",
+		"/E/Python/Valerie Test/Class 1/variables.py",
+		"/E/Python/Valerie Test/Class 1/loops-if.py",
+		"/E/Python/Valerie Test/Class 1/loops-ifs",
+		"/E/DjangoProjects/wwc/wwc/main/urls.py",
+		"/E/DjangoProjects/wwc/wwc/wwc/urls.py",
+		"/E/DjangoProjects/wwc/wwc/main/templates/site_base.html",
+		"/E/DjangoProjects/wwc/wwc/wwc/settings.py",
+		"/E/DjangoProjects/wwc/wwc/main/templates/profile/edit_profile.html",
+		"/E/DjangoProjects/wwc/wwc/main/templates/account/signup.html",
+		"/E/DjangoProjects/wwc/wwc/main/scraps.html",
+		"/E/DjangoProjects/wwc/wwc/main/templates/base.html",
+		"/E/DjangoProjects/wwc/wwc/main/templates/socialaccount/signup.html",
+		"/E/DjangoProjects/wwc/wwc/main/templates/account/login.html",
+		"/G/wwc/wwc/wwc/settings.py",
+		"/G/wwc/wwc/wwc/urls.py",
+		"/E/DjangoProjects/wwc/wwc/main/templates/account/logout.html",
+		"/E/DjangoProjects/wwc/wwc/static/css/main/allauth.css",
+		"/E/DjangoProjects/wwc/wwc/main/templates/account/email.html",
+		"/E/DjangoProjects/wwc/wwc/main/templates/account/signup_closed.html",
+		"/E/Python/GeneticAlgorithm/food.py",
+		"/E/Python/GeneticAlgorithm/main.py",
+		"/E/Python/GeneticAlgorithm/dna.py",
+		"/E/Python/GeneticAlgorithm/simple_protozoa.py",
+		"/E/Python/GeneticAlgorithm/population.py",
+		"/E/Python/GeneticAlgorithm/evolve.py",
+		"/E/Python/GeneticAlgorithm/creature.py",
+		"/E/Python/GeneticAlgorithm/ga.sublime-project",
+		"/D/Sublime/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Sublime/Data/Packages/User/Anaconda.sublime-settings",
+		"/E/Python/ScikitTutorial/linear_regression.py",
+		"/E/Python/ScikitTutorial/part1.py",
+		"/E/Python/ScikitTutorial/scikittutorial.sublime-project",
+		"/E/Python/CellularAutomata/training_neural_network/train_cellular_automata.py",
+		"/E/Python/NeuralNetwork/train_cellular_automata.py",
+		"/E/Python/NeuralNetwork/neural_network.py",
+		"/E/Python/NeuralNetwork/main.py",
+		"/E/Python/NeuralNetwork/temp.py",
+		"/F/Temp/Rar$DRa0.281/NeuralNetwork/NeuralNetworkTutorialApp/Program.cs",
+		"/E/Python/CellularAutomata/creating_datasets/game_of_life.py",
+		"/E/Python/CellularAutomata/using_pyglet/main.py",
+		"/E/Python/CellularAutomata/creating_datasets/main.py",
+		"/E/Python/CellularAutomata/using_pyglet/game_of_life.py",
+		"/E/AndroidProjects/Siargao2/data/stripoutvals.py",
+		"/E/AndroidProjects/Siargao2/data/out.csv",
+		"/E/AndroidProjects/Siargao2/data/coords",
+		"/E/Python/CellularAutomata/creating_datasets/data_2_0.txt",
+		"/E/Python/CellularAutomata/creating_datasets/data_1_46.txt",
+		"/E/Python/CellularAutomata/creating_datasets/data_1_96.txt",
+		"/E/Python/CellularAutomata/creating_datasets/data1.txt",
+		"/E/Python/CellularAutomata/creating_datasets/data2.txt",
+		"/E/Python/CellularAutomata/creating_datasets/data_0.txt",
+		"/E/Python/CellularAutomata/creating_datasets/workfile.txt",
+		"/F/Downloads/game_of_life.py",
+		"/E/Websites/Erasepeel/Posts/Coding/GameOfLife/game_of_life.py",
+		"/E/Websites/Erasepeel/Posts/Coding/GameOfLife/main.py",
+		"/E/Python/CellularAutomata/game_of_life.py",
+		"/E/Python/CellularAutomata/main.py",
+		"/E/Python/CellularAutomata/ca-project.sublime-project",
+		"/E/Python/CellularAutomata/game_of_life",
+		"/E/Python/CellularAutomata/game_of_life.sublime-workspace",
+		"/E/DjangoProjects/Annotator/annotator/annotator.sublime-project",
+		"/E/DjangoProjects/Annotator/annotator/annotator.sublime-workspace",
+		"/E/Python/CellularAutomata/game_grid.py",
+		"/E/DjangoProjects/Annotator/annotator/annotator/templates/home.html",
+		"/E/DjangoProjects/Annotator/annotator/annotator/__init__.py",
+		"/E/DjangoProjects/Annotator/annotator/models_temp.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/loaddb.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/deck1_food_words.txt",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/templates/games.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/templates/cards/pattern_search.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/templates/cards/cards.html",
+		"/C/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/E/Python/DjangoProjects/aiya_root/aiya/marker_pythonanywhere_com_wsgi.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/templates/home.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/templates/base.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/settings.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/static/aiya/css/base.css",
+		"/C/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Python/DjangoProjects/aiya_root/aiya/sentence_builder/views.py",
+		"/E/xampp/htdocs/angular/Test/index.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/bootstrap/css/bootstrap.css",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/models.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/populate_db.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/views.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/deck1_food_words_sentences.txt",
+		"/E/Python/DjangoProjects/aiya_root/aiya/test.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/sentence_builder/templates/build.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/static/aiya/js/sentence.js",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/static/aiya/js/search.js",
+		"/E/Python/DjangoProjects/aiya_root/aiya/sentence_builder/urls.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/urls.py",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/templates/purchase.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/deck_food.txt",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/templates/cards/deck_listing.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/templates/cards/pattern_search_results.html",
+		"/E/Python/DjangoProjects/aiya_root/aiya/aiya/static/aiya/css/search_results.css",
+		"/E/Python/DjangoProjects/aiya_root/aiya/cards/urls.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\DjangoProjects\\wwc\\wwc",
+			"E:\\Python\\DjangoProjects\\slog\\slogmore"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reindent",
+			"    </",
+			"  </",
+			" ",
+			"sits slyly",
+			"\"thence\"",
+			"Ball",
+			"to",
+			"4",
+			"/home",
+			"home",
+			"blocktrans",
+			"col-sm-8 col-md-6",
+			"8",
+			"\n				",
+			"allau",
+			"class",
+			"creatures",
+			":])",
+			"self.sigmoid",
+			"96",
+			"layerCount",
+			"numCases",
+			"outputDelta",
+			"layerOutput",
+			"layerInput",
+			"layerSize",
+			"()\n",
+			" ,",
+			"Long ",
+			"  ",
+			"– ",
+			"-",
+			"Lat ",
+			"pic/",
+			".png",
+			"<div class=\"row\">\n</div>",
+			"patterns.txt",
+			"patterns",
+			"site-header",
+			"class",
+			"rounde",
+			"container",
+			".strip()",
+			"(",
+			"    ",
+			"Word",
+			"md",
+			"5eced5",
+			"50d6cb",
+			"\"></",
+			">\n",
+			" ",
+			"/>\n",
+			"</div>",
+			"}}",
+			"{{",
+			"\n    ",
+			"span",
+			"Verb",
+			"adj",
+			"  ",
+			"[",
+			"]",
+			"-",
+			"- ",
+			"quote",
+			"urllib2",
+			";\n",
+			"bread",
+			"面包",
+			"mianbao",
+			"false",
+			"earned",
+			"<li>\n",
+			">\n",
+			"}}\"",
+			"        ",
+			"answer_formset",
+			"answer",
+			"%}\"><",
+			"auto_id",
+			"form",
+			"form.",
+			"form",
+			"models",
+			"datetime.datetime.today()",
+			"User",
+			"resource",
+			"info",
+			"))\n",
+			"$$$$$",
+			"Polynucleotide_",
+			"Polynucleotide",
+			"synthetic genomics",
+			"genonmics",
+			")\n",
+			"from_file",
+			"toggle",
+			"open",
+			"decode",
+			"8",
+			"fixtures",
+			"print",
+			"list_of_nodes",
+			"Modern_evolutionary_synthesis",
+			"to_find",
+			"line",
+			"\")",
+			"voting",
+			"P",
+			"line",
+			"<h6>",
+			"Error",
+			"print(\"Error\")",
+			"Error",
+			"node-votes",
+			"print",
+			"up",
+			"\">\n",
+			"        \n",
+			"node_panels",
+			"  ",
+			"upvote",
+			"models",
+			"Java",
+			"{\n",
+			"h7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-lg-8 col-sm-8 col-xs-10",
+			"actors",
+			"sigmoid",
+			"layer_count",
+			"num_cases",
+			"output_delta",
+			"activation_layer",
+			"z_layer",
+			"layer_size",
+			",",
+			"",
+			"sm",
+			"83dee4",
+			"5eced5",
+			"}})",
+			"({{",
+			"div",
+			"a",
+			" ",
+			" [",
+			"] ",
+			"",
+			"urllib",
+			"urllib3",
+			"False ",
+			"<span class=\"icon-bar\">",
+			"input",
+			"forms",
+			"timezone.now()",
+			"$$$$",
+			"fx.write",
+			"",
+			"\n",
+			">\n",
+			"}}>\n",
+			"div",
+			"img",
+			"Adding",
+			">\n",
+			"350",
+			"300",
+			"275",
+			"250",
+			">\n",
+			"right_wrapper",
+			"table",
+			"=\".\">\n",
+			">\n",
+			"             \n",
+			"'",
+			"max_length",
+			"txtEditChat",
+			"self.mainWindow",
+			"mainWindow",
+			"updatedGrid",
+			"",
+			"updatedGridNodes",
+			"updateGridNodes",
+			"gridNodes[row][col].getLocation()",
+			"i",
+			"Vector3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wwc/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3892,
+								3892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1090.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main/templates/site_base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main/templates/main/main_logged_in.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Python/ProjectsBkUp/Image Downloader/ImageDownloader/imagenetdl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "accounts/templates/account/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1945,
+								1945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "static/css/main/dashboard.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "static/css/main/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "accounts/templates/account/signup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2184,
+								2184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "main/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "wwc/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://E:\\GO":
+	{
+		"height": 326.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 94.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 327.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python-anaconda.sublime-build",
+	"project": "www-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 368.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

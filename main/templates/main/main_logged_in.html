@@ -1,0 +1,55 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+{% load account %}
+{% load static from staticfiles %}
+{% block head_title %} Weekly Writing Contest {% endblock %}
+
+{% block content %}
+	<div class="row">
+		<div class="col-sm-1">
+			
+		</div>
+
+		<div class="col-sm-8">
+			<div class="row">
+				<div class="col-sm-12 visible-sm visible-md visible-lg text-center ">
+            		<img src = "{% static 'imgs/main/title-logo.png' %}"/>  
+            		<hr class="hr-thicken"/>
+            	</div>
+            	
+            </div>
+		</div>
+			
+		<div class="col-sm-3">
+			
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-1">
+			
+		</div>
+
+		<div class="col-sm-8">
+			<div class="row">
+				{% if request.user.profile.account_verified %}
+                {%else %}
+                ** Your account is currently unverified, which means you can't submit or vote. Please check your email and click on the link to 
+                verify. If you have not received an email please click here to resend.
+                {% endif %}
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					News
+				</div>
+			</div>
+		</div>
+			
+		<div class="col-sm-3">
+			Updates
+		</div>
+	</div>
+
+
+
+{% endblock %}

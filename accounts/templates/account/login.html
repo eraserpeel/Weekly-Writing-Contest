@@ -1,0 +1,61 @@
+{% load i18n %}
+{% load account %}
+{% load static from staticfiles %}
+
+
+<div class="row">
+  <div class="col-sm-2 col-xs-1">
+  </div>
+
+  <div class="col-sm-8 col-xs-10">
+   <div class="row">
+     <p>Sign in with one
+       of your existing third party accounts: <br/></p>
+     </div>
+
+     <div class="row">  
+      <p><a href="/accounts/facebook/login/?process=login">
+       <img src="{% static 'imgs/accounts/facebook_login.png' %}" />
+     </a><br/></p>
+   </div>
+   
+   <div class="row"> 
+    <p>or sign in using an existing account:<p>
+    </div>
+    <div class="row">
+      <form class="login" method="POST" action="{% url 'account_login' %}">
+        {% csrf_token %}
+        <div class="row">
+          <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+            <label for="code">Username</label>
+            <input class="form-control" autofocus="autofocus" id="id_login" maxlength="30" name="login" placeholder="Username" type="text" />
+          </div>
+        </div>
+        <div class="row">
+          <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+            <label for="id_password">Password</label>
+            <input class="form-control" id="id_password" width="35"  name="password" placeholder="Password" type="password" />
+          </div>
+        </div>
+
+        <p><label for="id_remember">Remember Me:</label> <input id="id_remember" name="remember" type="checkbox" /></p>
+
+        {% if redirect_field_value %}
+        <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}" />
+        {% endif %}
+        <div class="row">
+          <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+          <button class="primaryAction btn-color form-control btn btn-default" type="submit">"Sign In"</button>
+          </div>
+        </div>
+        <div style="font-size: x-small">
+          <a class="button secondaryAction" href="{% url 'account_reset_password' %}">"Forgot Password?"</a> | 
+          <a class="button secondaryAction" href="{% url 'account_signup' %}">"Need an account?"</a>
+        </div>
+      </form>
+    </div>
+
+    <div class="col-sm-2 col-xs-1">
+    </div>
+  </div>
+</div>

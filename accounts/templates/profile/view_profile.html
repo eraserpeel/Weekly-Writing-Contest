@@ -1,0 +1,57 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+{% load account %}
+
+{% block head_title %}{% trans "Weekly Writing Contest" %}{% endblock %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-xs-1 col-md-2">
+  </div>
+
+  <div class="col-xs-10 col-md-8">
+    <h4> Profile </h4> <br />
+    <p>
+	    <h5> {{request.user.username}} </h5> 
+	    {% if request.user.userprofile.account_verified %} 
+	    {% else %}
+	    	(Account not verified)
+	    {% endif %}
+	    <br/><br/>
+	    <form class="" method="POST" action="">
+      		{% csrf_token %}
+      		<div class="row">
+        		<div class="form-group col-lg-6 col-sm-6 col-xs-10">
+          			<label for="code">Username</label>
+          			<input class="form-control" autofocus="autofocus" id="" maxlength="30" name="" value={{request.user.username}} type="text" disabled/>
+        		</div>
+			</div>
+
+			<div class="row">
+        		<div class="form-group col-lg-6 col-sm-6 col-xs-10">
+          			<label for="code">Location</label>
+          			<input class="form-control" autofocus="autofocus" id="" maxlength="30" name="" value="" type="text" />
+        		</div>
+        	</div>
+			<div class="row">
+        		<div class="form-group col-lg-6 col-sm-8 col-xs-10">
+          			<label for="code">Website</label>
+          			<input class="form-control" autofocus="autofocus" id="" maxlength="30" name="" value="" type="text" />
+        		</div>
+      		</div>
+    
+            <div class="row">
+	     		<div class="form-group col-lg-3 col-sm-5 col-xs-8">
+	      			<button class="primaryAction form-control btn btn-default" type="submit">Update Profile</button>
+	        	</div>
+	      </div>
+	    </form>
+    </p>
+  </div>
+  <div class="col-xs-1 col-md-2">
+  </div>
+
+</div>
+{% endblock %}

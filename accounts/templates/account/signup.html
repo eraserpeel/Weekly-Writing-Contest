@@ -1,0 +1,67 @@
+{% load i18n %}
+{% load account %}
+{% load static from staticfiles %}
+
+
+<div class="row">
+  <div class="col-xs-1 col-sm-2">
+  </div>
+
+  <div class="col-xs-10 col-sm-8">
+     <div class="row">
+        <p>Create an account using one a third-party provider:</p>
+      </div>  
+      <div class="row">    
+       <p>
+       <a href="/accounts/facebook/login/?process=login">
+         <img src="{% static 'imgs/accounts/facebook_login.png' %}" />
+       </a>
+       </p>
+      </div>
+      <div class="row">
+        <p>or create a local account:</p>
+      </div>  
+      <div class="row">
+        <form class="signup" id="signup_form" method="post" action="{% url 'account_signup' %}">
+          {% csrf_token %}
+
+          <div class="row">
+            <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+              <label for="id_username">Username:</label> 
+              <input class="form-control" autofocus="autofocus" id="id_username" maxlength="30" name="username" placeholder="Username" type="text" />
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+              <label for="id_email">E-mail:</label>
+              <input id="id_email" class="form-control" name="email" placeholder="E-mail address" type="email" /> 
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+              <p><label for="id_password1">Password:</label>
+                <input id="id_password1" class="form-control" name="password1" placeholder="Password" type="password" /></p>
+                <input id="id_password2" class="form-control" name="password2" placeholder="Password (again)" type="password" /><input id="id_confirmation_key" maxlength="40" name="confirmation_key" type="hidden" /></p>
+             </div>
+          </div>
+
+          <div class="row">
+            <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+            </div>
+          </div>
+            <div class="row">
+              <div class="form-group col-lg-8 col-sm-8 col-xs-10">
+                <button class="form-control btn-color" type="submit">Sign Up &raquo;</button>
+              </div>
+            </div>
+
+          </form>
+        </div>
+  </div>
+    <div class="col-xs-1 col-sm-2">
+    </div>
+</div>
+
+

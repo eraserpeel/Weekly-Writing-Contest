@@ -1,0 +1,9 @@
+.hr-thicken {
+    border-style: 3px solid;
+    border-color: #000000;
+}
+
+.btn-color {
+	background-color: #129793;
+	color: #ffffff;
+}
